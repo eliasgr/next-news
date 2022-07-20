@@ -1,0 +1,1006 @@
+{
+	"status": "ok",
+	"totalResults": 76488,
+	"articles": [
+		{
+			"source": { "id": "wired", "name": "Wired" },
+			"author": "Matt Burgess",
+			"title": "Russian ‘Hacktivists’ Are Causing Trouble Far Beyond Ukraine",
+			"description": "The pro-Russian group Killnet is targeting countries supporting Ukraine. It has declared \"war\" against 10 nations.",
+			"url": "https://www.wired.com/story/russia-hacking-xaknet-killnet/",
+			"urlToImage": "https://media.wired.com/photos/62c8b45c8bddd2a9edc32d0f/191:100/w_1280,c_limit/Russian-%E2%80%98Hacktivists%E2%80%99-Are-Causing-Trouble-Far-Beyond-Ukraine-Security-GettyImages-1088932190.jpg",
+			"publishedAt": "2022-07-11T11:00:00Z",
+			"content": "The attacks against Lithuania started on June 20. For the next 10 days, websites belonging to the government and businesses were bombarded by DDoS attacks, overloading them with traffic and forcing t… [+2825 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Putin's trip and Ukraine purge",
+			"description": "The Russian president goes on a rare overseas trip in our daily round-up of the Ukraine conflict.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62221358",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1562/production/_125947450_3e98c399-2f8a-43b2-aaee-a00ef6dbd05a.jpg",
+			"publishedAt": "2022-07-19T20:39:19Z",
+			"content": "By Robert PlummerBBC News\r\nVladimir Putin's invasion of Ukraine has left him diplomatically isolated. But on Tuesday, he was welcomed in the Iranian capital, Tehran, where he held talks with the coun… [+3633 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Jonathan Wolfe",
+			"title": "Chicago, Ukraine, Abortion: Your Tuesday Evening Briefing",
+			"description": "Here’s what you need to know at the end of the day.",
+			"url": "https://www.nytimes.com/2022/07/05/briefing/ukraine-chicago-shooting-abortion.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/05/multimedia/05evening-briefing-nl-PROMO/05evening-briefing-nl-HP1-facebookJumbo.jpg",
+			"publishedAt": "2022-07-05T21:42:52Z",
+			"content": "The queue has been around since at least 1927. Since 2008, it has been forming at Wimbledon Park, a vast green space where tents are pitched by a lake. There are food trucks, a first-aid center, secu… [+704 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Maham Javaid",
+			"title": "Heat wave in Europe threatens crops at a time when the grain from Ukraine remains blocked.",
+			"description": "The plea to heed air raid sirens came as Russia ordered its troops to intensify military action across Ukraine.",
+			"url": "https://www.nytimes.com/live/2022/07/17/world/russia-ukraine-war-news",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/16/multimedia/16ukraine-briefing-wheat/16ukraine-briefing-wheat-facebookJumbo.jpg",
+			"publishedAt": "2022-07-16T23:40:56Z",
+			"content": "Emergency services attending the scene of a missile strike that killed three people and wounded 16 others in Dnipro, Ukraine, on Friday.Credit...Daniel Berehulak for The New York Times\r\nMore than fou… [+4111 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Treason claims and Russians regroup",
+			"description": "In a day of political and military manoeuvres, Ukraine faces both internal and external enemies.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62207928",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9AC9/production/_125952693_gettyimages-1241956079.jpg",
+			"publishedAt": "2022-07-18T19:25:45Z",
+			"content": "By Robert PlummerBBC News\r\nIt was a day of complex political and military manoeuvres as Ukraine sought to defend itself from external and internal enemies alike.\r\nAway from the battlefield, President… [+3358 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Jeré Longman",
+			"title": "Yaroslava Mahuchikh High Jumps for Ukraine But Can’t Go Back",
+			"description": "An Olympic medalist high jumper from Ukraine, fearful of returning home because of the war, arrives at the world championships with a heavy heart — and expectations to win.",
+			"url": "https://www.nytimes.com/2022/07/15/sports/olympics/ukraine-track-field-world-championships.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/15/sports/15ukraine-jumper/15ukraine-jumper-facebookJumbo.jpg",
+			"publishedAt": "2022-07-15T23:11:40Z",
+			"content": "Mahuchikh wore blue and yellow eyeliner and a pendant in the shape of Ukraine. Gerashchenko wore a blue-and-yellow ribbon in her hair and a blue-and-yellow ring on her hand. A small group of Ukrainia… [+1197 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "The New York Times",
+			"title": "Ukraine Live Updates: War Crimes Investigations Face Formidable Challenges",
+			"description": "The prosecutor of the International Criminal Court warned against a “stampede” of investigations. A strike on the Ukrainian city of Vinnytsia killed at least 23 people.",
+			"url": "https://www.nytimes.com/live/2022/07/15/world/russia-ukraine-war-news",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/15/world/15ukraine-briefing-promo/15ukraine-briefing-carousel-1am-1-facebookJumbo.jpg",
+			"publishedAt": "2022-07-15T05:04:43Z",
+			"content": "Thursdays rocket strike on Vinnytsia, Ukraine, was the latest Russian attack that seemed to target a civilian area of a Ukrainian city.Credit...Roman Pilipey/EPA, via Shutterstock\r\nA Russian missile … [+4182 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": null,
+			"title": "Lithuania donates crowdfunded drone to Ukraine",
+			"description": "The drone was originally crowdfunded, but the manufacturer decided to donate it without cost.",
+			"url": "https://www.bbc.co.uk/news/av/world-europe-62074011",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14579/production/_125812338_p0ckcmlj.jpg",
+			"publishedAt": "2022-07-07T02:06:03Z",
+			"content": "Lithuania has donated a Turkish drone to Ukraine, to assist with its defence against the Russian invasion.\r\nA Lithuanian broadcaster, Laisves TV initially crowdfunded 6m euros (£5.1M) to buy the airc… [+417 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "The New York Times",
+			"title": "Live Ukraine Updates: U.S. Official Compares Russia’s Plans to Its Crimea Playbook",
+			"description": "Russia is moving toward annexing parts of Ukraine it controls with steps such as forcing residents to apply for Russian citizenship, a White House official said.",
+			"url": "https://www.nytimes.com/live/2022/07/20/world/ukraine-russia-war",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/20/world/20ukraine-briefing-promo-2am/20ukraine-briefing-promo-2am-facebookJumbo.jpg",
+			"publishedAt": "2022-07-20T05:10:26Z",
+			"content": "In this image released by the Iranian government, President Vladimir V. Putin of Russia greets Irans supreme leader, Ayatollah Ali Khamenei, and the Iranian president, Ebrahim Raisi, in Tehran on Tue… [+3311 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Russian rockets kill 15 in Chasiv Yar housing block, Ukraine says",
+			"description": "Many are also feared to be trapped in the rubble of the apartment block in eastern Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62113185",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2B07/production/_125851011_mediaitem125851010.jpg",
+			"publishedAt": "2022-07-10T10:45:06Z",
+			"content": "At least 15 people have been killed and about 20 more are feared buried under rubble after Russian rockets struck an apartment block in Chasiv Yar, a town in eastern Ukraine, officials say.\r\nFive vic… [+1508 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Stop fighting in Ukraine: Russian soldier's mum speaks out",
+			"description": "A mother says there is growing resentment about young Russians from the provinces being sent to Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62149895",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17731/production/_125894069_valya'sson2.png",
+			"publishedAt": "2022-07-14T03:20:26Z",
+			"content": "By Steve RosenbergRussia Editor, Moscow\r\nOn 20 February, Valya received a call from her son in the Russian army. His unit was \"on exercises\" near the Ukrainian border.\r\n\"He said they were doing firin… [+4279 chars]"
+		},
+		{
+			"source": { "id": "cnn", "name": "CNN" },
+			"author": "Opinion by Sam Kiley, CNN",
+			"title": "Boris Johnson's Ukraine deception",
+			"description": "For a man so schooled in Sophistry that truth has no meaning, it's hard to imagine more meaningful words from British Prime Minister Boris Johnson than when he warned that \"the consequences for the world are absolutely catastrophic\" if Russian President Vladi…",
+			"url": "https://www.cnn.com/2022/06/30/opinions/boris-johnson-ukraine-eu-brexit-kiley/index.html",
+			"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220630100530-johnson-zelensky-0409-restricted-super-tease.jpg",
+			"publishedAt": "2022-06-30T22:36:17Z",
+			"content": "Sam Kiley is CNN's Senior International Correspondent. The views expressed in this commentary are his own. View more opinion on CNN. \r\nKharkiv (CNN)For a man so schooled in Sophistry that truth has n… [+8332 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Russia's independent TV Rain channel back on air from abroad",
+			"description": "The channel was forced to close in March over its coverage of the war in Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62216940",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D6DE/production/_125960055_26075830-8934-414f-a0eb-da6dc627b68d.jpg",
+			"publishedAt": "2022-07-18T22:38:12Z",
+			"content": "TV Rain, Russia's last independent channel is back on air, more than four months after being forced to close over its coverage of the war in Ukraine.\r\nKnown as Dozhd in Russian, it resumed broadcasti… [+1505 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Deportation claims and North Korea row",
+			"description": "The US accuses Russia of removing civilians and Ukraine breaks off diplomatic ties with North Korea.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62155445",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14667/production/_125895538_blinken.jpg",
+			"publishedAt": "2022-07-13T19:52:20Z",
+			"content": "By Paul KirbyBBC News\r\nUS Secretary of State Antony Blinken has called on Russia to stop forced deportations and \"filtration\" operations involving Ukrainians.\r\nRussia had detained and forcibly moved … [+5420 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Adam Goldman",
+			"title": "Russia Election Threat Persists Amid War in Ukraine, Officials Say",
+			"description": "Top F.B.I. and National Security Agency officials said that Iran and China also remained potent threats, mounting their own campaigns to undermine American democracy.",
+			"url": "https://www.nytimes.com/2022/07/19/us/politics/fbi-nsa-russia-midterm-elections.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/19/us/politics/19dc-fbi-1/merlin_207520644_c99c9d8f-bc9a-4233-b1df-f96d705695d1-facebookJumbo.jpg",
+			"publishedAt": "2022-07-19T22:04:14Z",
+			"content": "Asked whether foreign countries were weaponizing allegations of election fraud, Mr. Wray said that divisive topics often offered an opening. We have seen different foreign adversaries look for and se… [+1220 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Germany fears Russia gas cut as supplies halted",
+			"description": "Russian pipeline operators say maintenance work is needed, but Germany suspects political motives.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62121702",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11233/production/_125859107_hi077225619.jpg",
+			"publishedAt": "2022-07-11T10:21:05Z",
+			"content": "Russian gas supplies to Germany via the Baltic Sea pipeline Nord Stream 1 have been halted for 10 days. \r\nThe pipeline's Russian-backed operators say the move is because of annual maintenance work. \r… [+1198 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: The fight to rescue our adopted children",
+			"description": "A Ukrainian foster family who were separated when Russia invaded spent months trying to reunite.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62178794",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/676A/production/_125947462_reunion1.jpg",
+			"publishedAt": "2022-07-17T23:51:31Z",
+			"content": "By Nina Nazarova &amp; Kateryna KhinkulovaBBC World Service\r\nWhen Russia invaded Ukraine, the outbreak of war meant a family of foster parents faced indefinite separation from six of their adopted ch… [+8526 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Russia plans to annex Ukrainian land - US",
+			"description": "Washington says Russia plans to use the Crimean \"playbook\" to take over more Ukrainian territory.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62231936",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11EB5/production/_125979337_mariupol.jpg",
+			"publishedAt": "2022-07-19T21:41:33Z",
+			"content": "Russia plans to annex more Ukrainian territory using a similar \"playbook\" to its takeover of Crimea, the US says. \r\nCiting US intelligence, National Security Council spokesman John Kirby said Russia … [+1565 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war round-up: Russia jails critic, US trains fighters",
+			"description": "Russia jails a Moscow councillor after he is filmed speaking out against the war.",
+			"url": "https://www.bbc.co.uk/news/world-62098488",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0355/production/_125835800_mediaitem125836554.jpg",
+			"publishedAt": "2022-07-08T20:11:43Z",
+			"content": "Russia has handed down what is believed to be the first full jail term to somebody for criticising the war in Ukraine.\r\nAlexei Gorinov, a Moscow councillor, was jailed for seven years after he was fi… [+4167 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Russia-Ukraine war: Priest detained for criticising Putin",
+			"description": "Father Ioann has been held under new laws for criticising the war.",
+			"url": "https://www.bbc.co.uk/news/world-62151553",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F6F6/production/_125922236_mural.jpg",
+			"publishedAt": "2022-07-16T23:27:25Z",
+			"content": "By Aleem MaqboolReligion Editor, BBC News\r\nThe officers who raided Father Ioann Kurmoyarov's home reportedly seized his mobile phone, a laptop, two icons, a cassock and a wooden cross.\r\nHe was taken … [+5755 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine grain: Kyiv optimistic on Russia deal to reopen Black Sea",
+			"description": "Tough talks are needed to reopen safe cargo routes for the grain that Russia has trapped in Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62146770",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1502/production/_125887350_59f9f33d2e62c2f9d48d8a5f2a97db12adf008500_0_5122_33602000x1312.jpg",
+			"publishedAt": "2022-07-13T09:20:16Z",
+			"content": "By Joe InwoodBBC News, Kyiv\r\nOf all the shockwaves sent around the world by Russia's invasion of Ukraine, for many the effect on food prices has been the most dramatic.\r\nMillions of tonnes of wheat, … [+3948 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "David E. Sanger and Peter Baker",
+			"title": "As Biden Reaches Out to Mideast Dictators, His Eyes Are on China and Russia",
+			"description": "Looking to make Moscow pay for its Ukraine war, and box China out of Mideast tech deals, the U.S. president tries to fall back on old Gulf alliances.",
+			"url": "https://www.nytimes.com/2022/07/16/world/middleeast/biden-saudi-arabia-china-russia.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/16/world/16prexy-assess1/16prexy-assess1-facebookJumbo.jpg",
+			"publishedAt": "2022-07-16T19:50:44Z",
+			"content": "JEDDAH, Saudi Arabia During his painful encounters with a series of Arab strongmen here in Saudi Arabia this weekend, President Biden kept returning to a single reason for renewing his relationship w… [+1056 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Eric Schmitt, Thomas Gibbons-Neff and John Ismay",
+			"title": "As Russia Runs Low on Drones, Iran Plans to Step In, U.S. Officials Say",
+			"description": "The potential delivery of hundreds of Iranian drones would help the Kremlin replenish a fleet that has suffered steep losses in Ukraine.",
+			"url": "https://www.nytimes.com/2022/07/17/us/politics/drones-ukraine-russia-iran.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/16/us/politics/00dc-drones3/merlin_204290439_f70fb781-fc3b-44ba-b6ac-eff150b517eb-facebookJumbo.jpg",
+			"publishedAt": "2022-07-17T16:40:04Z",
+			"content": "Iran has supplied drone technology to Hezbollah in Lebanon; to Houthi rebels in Yemen attacking Saudi Arabia and the United Arab Emirates; and to Shiite militias in Iraq, which have carried out strik… [+1096 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Afghan commander and Russia gas cut fears",
+			"description": "A man who fled war in Afghanistan now fights for Ukraine and Europe worries about Russian gas.",
+			"url": "https://www.bbc.co.uk/news/world-62125347",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4CBE/production/_125864691_chasiv_yar.png",
+			"publishedAt": "2022-07-11T20:12:25Z",
+			"content": "Media caption, Watch: Rescue of man from rubble of destroyed flats in Chasiv Yar, Ukraine\r\nRussian troops continued shelling several Ukrainian regions on Monday, killing six people and injuring 31 in… [+3497 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Russian rocket attack kills 20 in Vinnytsia",
+			"description": "Ukrainian officials say three children were among those killed in the central city of Vinnytsia.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62163071",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/23F1/production/_125910290_mediaitem125909157.jpg",
+			"publishedAt": "2022-07-14T11:54:03Z",
+			"content": "By George WrightBBC News\r\nRussian missiles have struck the central city of Vinnytsia, killing at least 20 people including three children, Ukrainian officials say.\r\nNinety more were reported wounded … [+1529 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Evacuation under fire and new oil tensions",
+			"description": "Civilians flee Ukraine's eastern city of Slovyansk and Kazakh oil is hit by a Russian court ruling.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62068417",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12660/production/_125806357_slovevacnewafp6jul22ok.jpg",
+			"publishedAt": "2022-07-06T20:57:07Z",
+			"content": "Residents have been told to leave Ukraine's eastern city of Slovyansk, a day after two people were killed in a Russian attack on a market.\r\nCivilians boarded minibuses on Wednesday morning as Russian… [+4281 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine-Russia war: Civilians flee frontline city as Russians advance",
+			"description": "Residents are told to leave the big Ukrainian city of Slovyansk after a deadly Russian attack.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62061695",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9A56/production/_125801593_slovy.jpg",
+			"publishedAt": "2022-07-06T11:40:26Z",
+			"content": "By Paul KirbyBBC News\r\nResidents have been told to leave Ukraine's eastern city of Slovyansk, a day after two people were killed in a Russian attack on a market.\r\nCivilians boarded minibuses on Wedne… [+3591 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: 21,000 alleged war crimes being investigated, prosecutor says",
+			"description": "A top prosecutor gave the new figure to the BBC, but admitted many trials would be held in absentia.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62073669",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15FA5/production/_125812009_6d880346-ca8e-4e12-bbb1-4fd21e3a67c4.jpg",
+			"publishedAt": "2022-07-07T00:26:53Z",
+			"content": "By Yaroslav LukovBBC News\r\nUkraine says it is investigating more than 21,000 war crimes and crimes of aggression allegedly committed by Russia since the start of its invasion.\r\nProsecutor General Iry… [+2264 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Russian military equipment on show in Prague",
+			"description": "The exhibition features a damaged Russian tank, a howitzer and defused rockets and shells.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62130083",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9908/production/_125867193_3448cd0b75292686e5a8326cd75ff5205588c3bb.jpg",
+			"publishedAt": "2022-07-11T22:22:14Z",
+			"content": "By Rob CameronBBC News, Prague\r\nRussian military equipment captured by the Ukrainian armed forces has gone on display in the Czech capital, Prague. \r\nThe display of war trophies, which includes a dam… [+3708 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Sabrina Tavernise, Rikki Novetsky, Rob Szypko, Will Reid, John Ketchum, Larissa Anderson, Marion Lozano, Dan Powell, Rowan Niemisto and Chris Wood",
+			"title": "How Long Will Europe Support Ukraine?",
+			"description": "The continent’s leaders increasingly want to understand how the war with Russia might end.",
+			"url": "https://www.nytimes.com/2022/06/30/podcasts/the-daily/europe-g7-ukraine-russia-oil.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/06/30/podcasts/30daily-1/merlin_208599795_5c7877b8-a644-45f7-a3a8-3690f1601914-facebookJumbo.jpg",
+			"publishedAt": "2022-06-30T10:00:09Z",
+			"content": "Matina Stevis-Gridneff contributed reporting.\r\nThe Daily is made by Lisa Tobin, Rachel Quester, Lynsea Garrison, Clare Toeniskoetter, Paige Cowett, Michael Simon Johnson, Brad Fisher, Larissa Anderso… [+757 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: G7 pledges to stay with Ukraine until the end",
+			"description": "Under pressure to be united against Russia, the West promises support \"for as long as it takes\".",
+			"url": "https://www.bbc.co.uk/news/world-europe-61954445",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2E46/production/_125664811_zelensky2.jpg",
+			"publishedAt": "2022-06-27T16:04:31Z",
+			"content": "Leaders of the world's seven richest nations have promised to support Ukraine \"for as long as it takes\" on the second day of a summit in Germany.\r\nIn a statement, the G7 group also said that Russia m… [+4675 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": null,
+			"title": "Drone footage shows destroyed Ukraine shopping centre",
+			"description": "At least 18 people die in a Russian missile strike on a shopping centre in the Ukrainian city.",
+			"url": "https://www.bbc.co.uk/news/av/world-europe-61963597",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17C25/production/_125671379_p0chk09z.jpg",
+			"publishedAt": "2022-06-28T07:05:55Z",
+			"content": "Drone footage shows the aftermath of a Russian missile strike on a busy shopping centre in the Ukrainian city of Kremenchuk on Monday.\r\nAt least 18 people died and dozens more were injured. There are… [+31 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine: The teachers swapping classrooms for trenches",
+			"description": "A number of teachers in Ukraine are educating their students online from the front line.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62003180",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/136E8/production/_125729597_ddd94ce1-e3e3-4715-907e-87cfeeacc030.jpg",
+			"publishedAt": "2022-07-02T23:28:54Z",
+			"content": "By Sophie WilliamsBBC News, Kyiv\r\nIt's a regular Monday morning in Ukraine and Fedir Shandor is logging on to conduct his online classes. \r\nThe university professor has been teaching online since the… [+5609 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": null,
+			"title": "Kharkiv Tried to Return to Normal. Russian Shelling Wouldn’t Let It.",
+			"description": "Ukraine repelled the effort to capture its second-largest city, but the artillery attacks did not stop. Many residents who left have returned but fear that a new offensive is imminent.",
+			"url": "https://www.nytimes.com/2022/07/19/world/middleeast/ukraine-russia-kharkiv.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/18/world/18UkraineKharkiv01/18UkraineKharkiv01-facebookJumbo.jpg",
+			"publishedAt": "2022-07-19T14:36:26Z",
+			"content": "We know that they did not abandon the idea of capturing Kharkiv city, said Oleh Synyehubov, the regional governor. As soon as they find any weak spot in our defense lines, they will immediately explo… [+1031 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Maria Varenikova and Andrew E. Kramer",
+			"title": "4-Year-Old Girl Dies in Russian Strike in Vinnytsia",
+			"description": "A toddler with Down syndrome was happily pushing a stroller through a Ukraine park before a Russian missile landed. “I want to shout out to the whole world,” an anguished survivor of the attack cried.",
+			"url": "https://www.nytimes.com/2022/07/15/world/europe/russia-vinnytsia-liza-dmytriyeva.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/15/world/15ukraine-ledeall1/15ukraine-ledeall1-facebookJumbo.jpg",
+			"publishedAt": "2022-07-15T22:21:39Z",
+			"content": "Its hard to recognize him now, she said. I see only his blue eyes.\r\nA video of the aftermath of the strike on Neuromed, verified by Ms. Kovalchuk, showed doctors staggering into a parking lot disorie… [+1007 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Eric Schmitt, Julian E. Barnes and Helene Cooper",
+			"title": "Commando Network Coordinates Flow of Weapons in Ukraine, Officials Say",
+			"description": "A secretive operation involving U.S. Special Operations forces hints at the scale of the effort to assist Ukraine’s still outgunned military.",
+			"url": "https://www.nytimes.com/2022/06/25/us/politics/commandos-russia-ukraine.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/06/25/us/politics/25dc-commandos-1/merlin_207528366_5d48b76e-8b48-4e6c-912b-8802dbc2dca9-facebookJumbo.jpg",
+			"publishedAt": "2022-06-25T15:50:06Z",
+			"content": "The cell, which was modeled after a structure used in Afghanistan, is part of a broader set of operational and intelligence coordination cells run by the Pentagons European Command to speed allied as… [+1922 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Medal sale millions to help refugees, and Ben Stiller visits Zelensky",
+			"description": "A Russian journalist raises millions selling his Nobel medal, and a Hollywood actor visits Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61884212",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0BAA/production/_125568920_stillerzelensky.jpg",
+			"publishedAt": "2022-06-21T20:12:54Z",
+			"content": "Russia has warned Lithuania of \"serious\" consequences after it banned the rail transfer of some goods to the Russian territory of Kaliningrad. \r\nRussia \"will certainly respond to such hostile actions… [+3497 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine: Price of freedom worth paying, says UK PM",
+			"description": "Boris Johnson argues letting Russia \"get away with\" invading Ukraine would have \"chilling\" consequences.",
+			"url": "https://www.bbc.co.uk/news/uk-politics-61949714",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9597/production/_125659283_de27-1.jpg",
+			"publishedAt": "2022-06-27T10:59:41Z",
+			"content": "By Kate WhannelPolitical reporter, BBC News\r\nMedia caption, The UK PM compares standing up to Nazi Germany with today's war after Russia invaded Ukraine.\r\n\"The price of freedom is worth paying,\" Bori… [+4145 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Russia leaves Snake Island and Putin's topless G7 comments",
+			"description": "A small but significant victory for Ukraine and Putin criticises G7 leaders' physiques - today's round-up.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61996705",
+			"urlToImage": "https://www.bbc.co.uk/news/special/2015/newsspec_10857/bbc_news_logo.png?cb=1",
+			"publishedAt": "2022-06-30T20:01:38Z",
+			"content": "By Tiffany WertheimerBBC News\r\nUkraine is celebrating a significant victory after Russian troops withdrew from Snake Island, which they seized on the first day of the invasion.\r\nIt may be small, but … [+4376 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine demands the seizure of Russian-flagged grain ship off Turkey",
+			"description": "Ship tracking reveals the route of a grain shipment from Russian-controlled Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62010113",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17518/production/_125721559_zhibek_zholy_ship_master.jpg",
+			"publishedAt": "2022-07-01T15:52:19Z",
+			"content": "By Reality Check teamBBC News\r\nUkraine has called for a ship carrying grain from a Russian-occupied part of the country to be seized. \r\nThe ship is currently lying off the Turkish coast. \r\nWe've moni… [+3327 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Russia claims capture of eastern city Lysychansk",
+			"description": "Russia's military says it controls all of Luhansk region - but Ukraine does not confirm the claim.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62030051",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/141D9/production/_125739328_oilfirelysy23junafp.jpg",
+			"publishedAt": "2022-07-03T15:57:37Z",
+			"content": "Russia says it is now in full control of the eastern city of Lysychansk - a claim not confirmed by Ukraine.\r\nRussian Defence Minister Sergei Shoigu told President Putin that his forces now completely… [+3685 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "G7 face battle for unity as cost of Ukraine war mounts",
+			"description": "The Russian war against Ukraine will inevitably dominate the summit of G7 nations in Bavaria.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61940007",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8C8D/production/_125618953_mediaitem125618951.jpg",
+			"publishedAt": "2022-06-25T21:24:52Z",
+			"content": "By James LandaleDiplomatic correspondent\r\nThe Russian war against Ukraine will inevitably dominate the summit of G7 nations in Bavaria. \r\nAnd the leaders of the US, UK, Germany, France, Italy, Canada… [+2904 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Russia takes Lysychansk and border city hit",
+			"description": "After weeks of heavy fighting Ukraine withdrew from Lysychansk - the latest eastern city to fall.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62030058",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A981/production/_125739334_lysyrubblegettyok13jun.jpg",
+			"publishedAt": "2022-07-03T20:20:02Z",
+			"content": "Ukraine's military confirmed on Sunday that the eastern city of Lysychansk had fallen to Russian forces.\r\n\"After heavy fighting for Lysychansk, the defence forces of Ukraine were forced to withdraw f… [+2704 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Nigeria rejects Ukraine online degrees: 'It's not fair'",
+			"description": "Distraught medical students who fled Ukraine are told their distance-learning degrees are not valid.",
+			"url": "https://www.bbc.co.uk/news/world-africa-61924341",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15FEA/production/_125609009_grace2.jpg",
+			"publishedAt": "2022-07-03T00:06:52Z",
+			"content": "By Chris EwokorBBC News, Abuja\r\nThe message from Nigeria's medical council could not have been more cruel for student Moses Damilola Fehintola.\r\nAfter being trapped by war in Ukraine earlier this yea… [+4790 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Russian missile strikes kill 18 in Odesa region - emergency service",
+			"description": "The overnight strikes hit a residential building and a recreation centre in a village, Ukraine says.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62006743",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6253/production/_125717152_odesa_missile.png",
+			"publishedAt": "2022-07-01T08:09:09Z",
+			"content": "At least 18 people, including one child, have died in overnight Russian missile strikes on Ukraine's southern Odesa region, Ukrainian officials say.\r\nThe state emergency service, DSNS, says 16 people… [+1015 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Guardian" },
+			"author": "Samantha Lock and Léonie Chao-Fong",
+			"title": "Russia-Ukraine war update: what we know on day 141 of the invasion",
+			"description": "Turkey announces deal with Ukraine, Russia and UN aimed at resuming grain exports; Ukraine rules out ceding territory to Russia as part of any ceasefire deal <ul><li>See all our Russia-Ukraine war coverage</li></ul> Continue reading...",
+			"url": "https://amp.theguardian.com/world/2022/jul/14/russia-ukraine-war-update-what-we-know-on-day-141-of-the-invasion",
+			"urlToImage": "https://i.guim.co.uk/img/media/f4075c1426f9be927d5b0cc66726008795531a2e/0_310_4201_2522/master/4201.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edbd63170e87b0a6766f21cb12ab7987",
+			"publishedAt": "2022-07-14T00:30:10Z",
+			"content": "Russian and proxy forces have reportedly entered the town of Siversk in Ukraines Donetsk region, according to Russian media reports. State news agency Tass quoted Vitaly Kiselyov, an official from th… [+147 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "WRAPUP1 Kyiv strikes Russian-held area in southern Ukraine in rocket attack - Reuters.com",
+			"description": "Ukraine launched long-range rocket attacks on Russian forces in southern Ukraine and destroyed an ammunition store, its military said, as Russia continued to pound the country's east.",
+			"url": "https://www.reuters.com/world/europe/wrapup1-kyiv-strikes-russian-held-area-southern-ukraine-rocket-attack-2022-07-13/",
+			"urlToImage": "https://www.reuters.com/resizer/ePhujsA5uiAjeyS-Se7GtITI-0I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BV55M75YRRN27HXXKNVOOXTN3U.jpg",
+			"publishedAt": "2022-07-13T01:36:00Z",
+			"content": "KYIV, July 13 (Reuters) - Ukraine launched long-range rocket attacks on Russian forces in southern Ukraine and destroyed an ammunition store, its military said, as Russia continued to pound the count… [+4538 chars]"
+		},
+		{
+			"source": { "id": "cnn", "name": "CNN" },
+			"author": "William Han",
+			"title": "Opinion: 'I am part of a dying breed of Taiwanese'",
+			"description": "The war in Ukraine has touched off a wave of soul-searching in Taiwan. For William Han, one of Taiwan's ethnic minority \"waishengren,\" it has also underlined a \"dying breed\" holding fast to their Chinese heritage.",
+			"url": "https://www.cnn.com/2022/07/15/opinions/taiwan-independence-china-ukraine-war-intl-hnk-han/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220707141934-ing-ning-john-han.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-07-16T00:06:40Z",
+			"content": "Editors Note: William Han (@w_t_han) is a writer and lawyer. His book From the Wall to the Water will be published in September. The views expressed in this commentary are his own. View more opinion … [+6998 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Matthew Futterman",
+			"title": "As Wimbledon Begins, an Era of Sports Free of Bans and Boycotts Ends",
+			"description": "For decades, sports has avoided punishing athletes for the actions of their countries. Russia’s invasion of Ukraine has put an end to that.",
+			"url": "https://www.nytimes.com/2022/06/27/sports/tennis/wimbledon-russia-liv-pga-saudi.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/06/27/multimedia/27wimbledon-russia1/27wimbledon-russia1-facebookJumbo.jpg",
+			"publishedAt": "2022-06-27T04:01:08Z",
+			"content": "This genie is not going back in that bottle, Lynch said. We will continue to see increased use of sports for cultural change, for value change, for policy change. Its only going to happen more and mo… [+1593 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Jim Tankersley and Michael D. Shear",
+			"title": "Missing From Biden’s Europe Trip: An Endgame for War and Cheaper Gas",
+			"description": "The G7 and NATO meetings this week underscored the pressure on Western leaders caused by soaring energy costs resulting from Russia’s invasion of Ukraine.",
+			"url": "https://www.nytimes.com/2022/06/30/world/biden-nato-g7-ukraine.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/06/30/world/30Ukraine-Biden1/30Ukraine-Biden1-facebookJumbo.jpg",
+			"publishedAt": "2022-06-30T17:29:47Z",
+			"content": "Mr. Sullivan and Treasury Secretary Janet L. Yellen said this week that officials would move quickly to negotiate and implement the myriad unresolved details of the proposed cap on the price of Russi… [+1163 chars]"
+		},
+		{
+			"source": { "id": "cnn", "name": "CNN" },
+			"author": "Rob Picheta",
+			"title": "Two exhausted armies are battling for eastern Ukraine. Can either of them strike a decisive blow?",
+			"description": "When Vladimir Putin refocused his war in Ukraine on the country's east three months ago, he did so bruised by the failures of his initial lunge towards Kyiv and desperate for a face-saving success.",
+			"url": "https://www.cnn.com/2022/07/13/europe/ukraine-russia-next-stages-donetsk-intl/index.html",
+			"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220622074401-lysychansk-062122.jpg?c=16x9&q=w_800,c_fill",
+			"publishedAt": "2022-07-13T04:05:09Z",
+			"content": "When Vladimir Putin refocused his war in Ukraine on the countrys east three months ago, he did so bruised by the failures of his initial lunge towards Kyiv and desperate for a face-saving success.\r\nA… [+16123 chars]"
+		},
+		{
+			"source": { "id": "cnn", "name": "CNN" },
+			"author": "Rob Picheta, Anna Chernova, Uliana Pavlova and Chris Liakos, CNN",
+			"title": "Putin takes his first international trip beyond the borders of the former Soviet Union since his invasion of Ukraine",
+			"description": "Russian President Vladimir Putin arrived in Iran on Tuesday for his first international trip beyond the borders of the former Soviet Union since launching his invasion of Ukraine, which effectively ruptured ties with the West.",
+			"url": "https://www.cnn.com/2022/07/19/middleeast/putin-iran-visit-russia-ukraine-intl/index.html",
+			"urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220719145356-putin-iran-arrival-super-tease.jpg",
+			"publishedAt": "2022-07-19T15:57:58Z",
+			"content": "(CNN)Russian President Vladimir Putin arrived in Iran on Tuesday for his first international trip beyond the borders of the former Soviet Union since launching his invasion of Ukraine, which effectiv… [+3877 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Krememchuk strike: 'I didn't think they would hit a mall - it's a safe place'",
+			"description": "A Russian missile hit a busy mall in Ukraine. The BBC spoke to some of those who were inside.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61967376",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1B23/production/_125674960_maksym.jpg",
+			"publishedAt": "2022-06-28T11:25:34Z",
+			"content": "By Sophie WilliamsBBC News, Krememchuk\r\nMedia caption, Watch: Survivors in hospital speak about the attack on a mall in Kremenchuk\r\nMaksym Musienko, 26, was at his job in an electronics store at the … [+2829 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Belgorod: Fear and denial in Russian city hit by shells",
+			"description": "Residents of Belgorod are divided on how to respond to Ukraine after the city was hit by explosions.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62042455",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/61B7/production/_125751052_bfa57513-8178-47bc-b03e-782b6e831177.jpg",
+			"publishedAt": "2022-07-04T16:00:12Z",
+			"content": "By Steve RosenbergRussia Editor, Belgorod\r\nIn her fifth floor apartment in Belgorod, Lidiya tells me of her narrow escape. \r\n\"At ten past three on Sunday morning I was woken by a blinding flash and a… [+3189 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Russian journalist Dmitry Muratov auctions Nobel medal for $103m",
+			"description": "Dmitry Muratov says all the money from the auction will go to help refugees from the war in Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61875391",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/753F/production/_125551003_mediaitem125551051.jpg",
+			"publishedAt": "2022-06-21T01:25:33Z",
+			"content": "The Russian editor-in-chief of the independent newspaper Novaya Gazeta has auctioned off his Nobel Peace Prize medal for $103.5 million (£84 million).\r\nDmitry Muratov said all the money from sale wil… [+1875 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Elite Russian regiment fights for support and the war for borsch",
+			"description": "Support for Russia's elite fighting force looks less certain as the regiment reappears in Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62013997",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13350/production/_125727687_small_index_promo_976-2x-nc.jpg",
+			"publishedAt": "2022-07-01T19:52:58Z",
+			"content": "Friday brought another deadly barrage of Russian missile strikes on Ukraine, with at least 21 people - including one child - reported killed in the southern Odesa region.\r\nUkraine's emergency service… [+4674 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "The family separated by war in both life and death",
+			"description": "A bereaved father in Ukraine is separated from his daughter, who is receiving medical treatment abroad.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61866727",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13712/production/_125543697_mediaitem125543694.jpg",
+			"publishedAt": "2022-06-20T13:57:44Z",
+			"content": "By Wyre Daviesin Vinnytsia, Ukraine\r\nEvery day at the stunningly ornate Holy Transfiguration Cathedral in the western Ukrainian city of Vinnytsia, Vladimir lights two candles. One is for his daughter… [+5432 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: US to ramp up military presence across Europe",
+			"description": "President Biden announces a strengthening by \"land, air and sea\" over Russia's invasion of Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61983555",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1519D/production/_125692468_hi076261260.jpg",
+			"publishedAt": "2022-06-29T15:38:53Z",
+			"content": "The US will increase its military presence across Europe in response to Russia's invasion of Ukraine, President Joe Biden has announced.\r\nA permanent army headquarters will be created in Poland, whil… [+2223 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Borsch soup in Ukraine added to Unesco endangered heritage list",
+			"description": "While Ukraine considers the soup to be a national dish, Russia has repeatedly refuted the claim.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62013362",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/228A/production/_125724880_gettyimages-1177250482.jpg",
+			"publishedAt": "2022-07-01T15:31:50Z",
+			"content": "By Alys DaviesBBC News\r\nThe UN's cultural agency has added the cooking of borsch - a soup usually made with beetroot and potatoes - in Ukraine to its list of endangered intangible cultural heritage.\r… [+2474 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine: Could it join the EU, and how might Russia react?",
+			"description": "Ukraine hopes to become an official candidate for European Union (EU) membership.",
+			"url": "https://www.bbc.co.uk/news/world-61844552",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9AA1/production/_125558593_gettyimages-1240547987.jpg",
+			"publishedAt": "2022-06-21T23:10:10Z",
+			"content": "Ukraine is set to become an official candidate for European Union (EU) membership, the first step to joining the 27-country bloc. \r\nEU leaders are expected to back the move at a summit being held on … [+5346 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Nato boosted by 'land, air and sea'",
+			"description": "Nato reinforces across Europe and Putin's cousin sanctioned - the latest on the war in Ukraine.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61985632",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BD2D/production/_125692484_85cce7ab-1388-424f-8ff0-658609ef0c60.png",
+			"publishedAt": "2022-06-29T20:39:25Z",
+			"content": "Russia's invasion of Ukraine has - as our defence correspondent Frank Gardner puts it - had the effect of a \"50,000 volt shock\" through Nato.\r\nNot long ago, the security alliance was described as \"br… [+3506 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "Ukraine adviser Podolyak thanks UK's Johnson for supporting Ukraine - Reuters UK",
+			"description": "An adviser to Ukraine's President Volodymyr Zelenskiy on Thursday thanked outgoing British Prime Minister Boris Johnson for always being at the forefront of supporting Ukraine.",
+			"url": "https://www.reuters.com/world/uk/ukraine-adviser-podolyak-thanks-uks-johnson-supporting-ukraine-2022-07-07/",
+			"urlToImage": "https://www.reuters.com/resizer/TPs65cL3Db3_VngiPE0ISerEWx8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BHGV37PB5NP45DHX6URN4AZE5U.jpg",
+			"publishedAt": "2022-07-07T12:03:00Z",
+			"content": "KYIV, July 7 (Reuters) - An adviser to Ukraine's President Volodymyr Zelenskiy on Thursday thanked outgoing British Prime Minister Boris Johnson for always being at the forefront of supporting Ukrain… [+422 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "Ukraine to Russia: humanitarian law must apply to foreigners fighting for Ukraine - Reuters.com",
+			"description": "Ukraine's foreign ministry accused Russia on Monday of treating Ukrainian prisoners of war illegally and using them for political purposes, and demanded humane treatment of captured foreigners fighting for Ukraine.",
+			"url": "https://www.reuters.com/world/europe/ukraine-russia-humanitarian-law-must-apply-foreigners-fighting-ukraine-2022-07-18/",
+			"urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=102",
+			"publishedAt": "2022-07-18T13:56:00Z",
+			"content": "KYIV, July 18 (Reuters) - Ukraine's foreign ministry accused Russia on Monday of treating Ukrainian prisoners of war illegally and using them for political purposes, and demanded humane treatment of … [+2190 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": "Reuters Staff",
+			"title": "Ukraine to Russia: humanitarian law must apply to foreigners fighting for Ukraine - Reuters.com",
+			"description": "Ukraine's foreign ministry accused Russia on Monday of treating Ukrainian prisoners of war illegally and using them for political purposes, and demanded humane treatment of captured foreigners fighting for Ukraine.",
+			"url": "https://www.reuters.com/article/us-ukraine-crisis-prisoners-idUSKBN2OT0XD",
+			"urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+			"publishedAt": "2022-07-18T13:56:00Z",
+			"content": "By Reuters Staff\r\nKYIV (Reuters) -Ukraines foreign ministry accused Russia on Monday of treating Ukrainian prisoners of war illegally and using them for political purposes, and demanded humane treatm… [+1949 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: What Severodonetsk's fall means for the conflict",
+			"description": "Russian troops must still cross the Siversky Donets river to capture all of the Luhansk region.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61945914",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/165A0/production/_125625519_hi076874546.jpg",
+			"publishedAt": "2022-06-26T21:18:25Z",
+			"content": "By Joe InwoodBBC News, Kyiv\r\nIt may have felt like an inevitability, but that does not make the fall of Severodonetsk any less painful for Ukraine.\r\nFor weeks it had been the main focus of Russia's i… [+5207 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Chess: A different Russia-Ukraine battle in India",
+			"description": "Russia's Arkady Dvorkovich will take on Ukraine's Andrii Baryshpolets for the top post in chess administration.",
+			"url": "https://www.bbc.co.uk/news/world-asia-india-61914531",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1118E/production/_125603007_gettyimages-494317811-594x594.jpg",
+			"publishedAt": "2022-06-24T23:14:13Z",
+			"content": "By Susan NinanSports Writer\r\nIn August, Mahabalipuram, a small town in the southern Indian state of Tamil Nadu, will serve as the unlikely venue for a Russia-Ukraine battle.\r\nRepresentatives of more … [+6505 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Severodonetsk: Russia has full control of eastern city, Ukraine says",
+			"description": "The mayor of the eastern city says Russian troops are in control after Ukrainian forces withdrew.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61936820",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6C67/production/_125615772_severotroopsepanew19jun22.jpg",
+			"publishedAt": "2022-06-25T15:30:00Z",
+			"content": "Russian forces are now in control of the battered city of Severodonetsk in eastern Ukraine, its mayor says.\r\n\"The Russians have fully occupied Severodonetsk, our military has retreated to more prepar… [+1290 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "EU leaders to back Ukraine as candidate at Brussels summit",
+			"description": "An EU summit will give the green light but Kyiv admits \"real integration\" will start after the war.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61891467",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80E5/production/_125579923_hi076768782.jpg",
+			"publishedAt": "2022-06-22T23:01:11Z",
+			"content": "By Jessica ParkerBBC Brussels correspondent\r\nUkraine is set to be approved as an EU candidate at a Brussels summit on Thursday, after the European Commission gave the green light.\r\nUkraine applied da… [+4077 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: Kremenchuk shopping centre attack claims fact-checked",
+			"description": "Russia's government and its supporters online spread a number of false claims after the bombing.",
+			"url": "https://www.bbc.co.uk/news/61967480",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/423D/production/_125675961_p0chktvg.jpg",
+			"publishedAt": "2022-06-28T14:55:58Z",
+			"content": "By Reality Check and BBC MonitoringBBC News\r\nWithin hours of the attack on a shopping centre in the central Ukrainian city of Kremenchuk, false and unproven claims began circulating online.\r\nStories … [+4629 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "Ukraine hasn't used HIMARS to strike in Russian territory - Reuters.com",
+			"description": "Ukraine has not used advanced U.S.-made high mobility artillery rocket systems (HIMARS) to strike Russian targets outside of Ukraine territory, a senior U.S. defense official said on Friday, disputing Russian accusations.",
+			"url": "https://www.reuters.com/world/europe/ukraine-hasnt-used-himars-strike-russian-territory-2022-07-08/",
+			"urlToImage": "https://www.reuters.com/resizer/tsf7_waQfswpk_0vXc0lhs3G8xw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KD4EYGNQABMO5KDKS2TFMP3PFY.jpg",
+			"publishedAt": "2022-07-08T17:35:00Z",
+			"content": "WASHINGTON, July 8 (Reuters) - Ukraine has not used advanced U.S.-made high mobility artillery rocket systems (HIMARS) to strike Russian targets outside of Ukraine territory, a senior U.S. defense of… [+798 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "U.N. chief due to explain 'positive' Ukraine grain talks - Reuters",
+			"description": "U.N. chief Antonio Guterres will speak later on Wednesday about talks between Russia, Ukraine, Turkey and U.N. officials on resuming Black Sea exports of Ukraine grain because \"we believe that this is something positive,\" a U.N. spokesman said.",
+			"url": "https://www.reuters.com/world/un-chief-due-explain-positive-ukraine-grain-talks-2022-07-13/",
+			"urlToImage": "https://www.reuters.com/resizer/h1dr9uvzke-5lq5iYGd5hteBid0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/OGKQMWX5P5P7ZJJPR5IM6BLWAU.jpg",
+			"publishedAt": "2022-07-13T16:45:00Z",
+			"content": "UNITED NATIONS, July 13 (Reuters) - U.N. chief Antonio Guterres will speak later on Wednesday about talks between Russia, Ukraine, Turkey and U.N. officials on resuming Black Sea exports of Ukraine g… [+604 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": "Dave Lucas",
+			"title": "Civilians caught in the crossfire of Russia's invasion of Ukraine | Pictures - Reuters.com",
+			"description": "A local resident Zinaida Klimova, 85, reacts near her residential building damaged by a Russian military strike, amid Russia's invasion on Ukraine, in Kramatorsk, in Donetsk region, Ukraine July 19, 2",
+			"url": "https://www.reuters.com/news/picture/civilians-caught-in-the-crossfire-of-rus-idUSRTS9PTNN",
+			"urlToImage": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220719&t=2&i=1604280390&w=&fh=545&fw=810&ll=&pl=&sq=&r=2022-07-19T160609Z_19400_MRPRC2ZEV9MB82K_RTRMADP_0_UKRAINE-CRISIS-KRAMATORSK",
+			"publishedAt": "2022-07-19T16:06:00Z",
+			"content": "Reuters, the news and media division of Thomson Reuters, is the worlds largest multimedia news provider, reaching billions of people worldwide every day. Reuters provides business, financial, nationa… [+139 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "Turkey says deal reached in Ukraine grain talks -minister - Reuters",
+			"description": "Talks between Russia, Ukraine, Turkey and U.N. officials on resuming Black Sea exports of Ukraine grain resulted in an agreement to form a coordination center in order to ensure the safety of routes, the Turkish defence minister said on Wednesday.",
+			"url": "https://www.reuters.com/world/europe/turkey-says-deal-reached-ukraine-grain-talks-minister-2022-07-13/",
+			"urlToImage": "https://www.reuters.com/resizer/pmMQgXNBknhjaGPbjvbG3OHk7BE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3KDLADIGFNLLVEE5YQYMLPFIBA.jpg",
+			"publishedAt": "2022-07-13T18:00:00Z",
+			"content": "ANKARA, July 13 (Reuters) - Talks between Russia, Ukraine, Turkey and U.N. officials on resuming Black Sea exports of Ukraine grain resulted in an agreement to form a coordination center in order to … [+667 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Eric Schmitt and John Ismay",
+			"title": "Advanced U.S. Arms Make a Mark in Ukraine War, Officials Say",
+			"description": "The powerful and highly mobile weapons systems, which can fire guided rockets with a range of 40 miles, are desperately needed in the battle for eastern Ukraine.",
+			"url": "https://www.nytimes.com/2022/07/01/us/politics/himars-weapons-ukraine.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/07/01/us/politics/01dc-himars/merlin_209002413_6bbc44fe-0c91-4d81-8771-5701a4ed752f-facebookJumbo.jpg",
+			"publishedAt": "2022-07-01T19:08:27Z",
+			"content": "For the HIMARS, Ukrainian forces rely on a guided rocket that is aided by GPS signals and accurate to within about 30 feet of its intended target. Before launch, a three-person crew inputs coordinate… [+1278 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Britons captured in Ukraine must not face death penalty - European court",
+			"description": "Shaun Pinner and Aiden Aslin were sentenced by a Russian proxy court in eastern Ukraine earlier this month.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61997383",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1364E/production/_125583497_aidenaslin2.jpg",
+			"publishedAt": "2022-06-30T14:06:38Z",
+			"content": "The European Court of Human Rights (ECHR) has told Russia to prevent the execution of two Britons who were captured while fighting for Ukraine.\r\nShaun Pinner and Aiden Aslin were sentenced by a Russi… [+2413 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": null,
+			"title": "Russian journalist's Nobel medal sells for $103.5m",
+			"description": "All of the the money from the sale will be used to help refugees from the war in Ukraine.",
+			"url": "https://www.bbc.co.uk/news/av/world-europe-61879343",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6A59/production/_125552272_p0cg5qmh.jpg",
+			"publishedAt": "2022-06-21T08:42:24Z",
+			"content": "The Russian editor-in-chief of the independent newspaper Novaya Gazeta has auctioned off his Nobel Peace Prize medal for $103.5m (£84m).\r\nDmitry Muratov said all the money from the sale would go to h… [+131 chars]"
+		},
+		{
+			"source": { "id": "business-insider", "name": "Business Insider" },
+			"author": "sbaker@businessinsider.com (Sinéad Baker)",
+			"title": "A Russian solider complained of being sent to the 'slaughter' against Ukrainian long-range weapons in intercepted audio",
+			"description": "Western countries have given Ukraine long-range weapons, which Ukraine says is helping its fight against Russia's invasion.",
+			"url": "https://www.businessinsider.com/audio-shows-russia-solider-complaining-of-ukraine-long-range-weapons-2022-7",
+			"urlToImage": "https://i.insider.com/62d52c6faac2aa0018cb8e3f?width=1200&format=jpeg",
+			"publishedAt": "2022-07-18T10:15:01Z",
+			"content": "Ukrainian authorities published audio they say shows a Russian solider complaining to his partner that he had been sent \"to slaughter\" during Moscow's invasion of Ukraine.\r\nThe Security Service of Uk… [+2951 chars]"
+		},
+		{
+			"source": { "id": "wired", "name": "Wired" },
+			"author": "Thomas Lin and Erica Klarreich",
+			"title": "Meet the Ukrainian Number Theorist Who Won Math’s Highest Honor",
+			"description": "With her homeland mired in war, the sphere-packing number theorist Maryna Viazovska has become the second woman to win a Fields Medal in the award’s history.",
+			"url": "https://www.wired.com/story/meet-the-ukrainian-number-theorist-who-won-maths-highest-honor/",
+			"urlToImage": "https://media.wired.com/photos/62d183c9efd0c861393df5bd/191:100/w_1280,c_limit/Lede_Quanta_Science_MV_2880x1620_Lede-scaled.jpg",
+			"publishedAt": "2022-07-17T12:00:00Z",
+			"content": "In late February, just weeks after Maryna Viazovska learned she had won a Fields Medalthe highest honor for a mathematicianRussian tanks and war planes began their assault on Ukraine, her homeland, a… [+4845 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": "Reuters Editorial",
+			"title": "Death, devastation at Ukraine apartment complex - Reuters.com",
+			"description": "At least 15 people were killed and two dozen more are feared trapped after Russian Uragan rockets hit a five-story apartment complex in Ukraine's Donetsk region, local officials said on Sunday (July 10) as rescuers picked their way through rubble. Lisa Bernha…",
+			"url": "https://www.reuters.com/video/watch/idOV090610072022RP1",
+			"urlToImage": "https://static.reuters.com/resources/r/?d=20220710&i=OV090610072022RP1&r=OV090610072022RP1&t=2",
+			"publishedAt": "2022-07-10T21:55:25Z",
+			"content": "Posted \r\nAt least 15 people were killed and two dozen more are feared trapped after Russian Uragan rockets hit a five-story apartment complex in Ukraine's Donetsk region, local officials said on Sund… [+92 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": "Reuters Editorial",
+			"title": "Death, devastation at Ukraine apartment complex - Reuters.com",
+			"description": "7/10 At least 15 people were killed and two dozen more are feared trapped after Russian Uragan rockets hit a five-story apartment complex in Ukraine's Donetsk region, local officials said on Sunday as rescuers picked their way through rubble.",
+			"url": "https://www.reuters.com/video/watch/idRCV00B8YO",
+			"urlToImage": "https://static.reuters.com/resources/r/?d=20220710&i=RCV00B8YO&r=RCV00B8YO&t=2",
+			"publishedAt": "2022-07-10T22:09:05Z",
+			"content": "Posted \r\n7/10 At least 15 people were killed and two dozen more are feared trapped after Russian Uragan rockets hit a five-story apartment complex in Ukraine's Donetsk region, local officials said on… [+51 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": "Reuters Editorial",
+			"title": "Ukraine hopes for grain exports breakthrough - Reuters",
+			"description": "07/13. Russian, Ukrainian and Turkish military delegations met with U.N. officials in Istanbul on Wednesday (July 13), CNN Turk said, starting talks on resuming exports of Ukrainian grain from the Black Sea port of Odesa as a global food crisis worsens.",
+			"url": "https://www.reuters.com/video/watch/ids5rA?now=true",
+			"urlToImage": "https://ajo.prod.reuters.tv/api/v2/img/62cedb1ce4b09631b0e4a7cc-1657723673283?location=LANDSCAPE",
+			"publishedAt": "2022-07-13T15:11:39Z",
+			"content": "Posted \r\n07/13. Russian, Ukrainian and Turkish military delegations met with U.N. officials in Istanbul on Wednesday (July 13), CNN Turk said, starting talks on resuming exports of Ukrainian grain fr… [+62 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine round-up: Girl, 4, among Russian rocket attack victims and British aid worker dies",
+			"description": "Four-year-old Liza was one of three children killed in the attack on Vinnytsia, far from the front line.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62186324",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/42D9/production/_125931171_liza.jpg",
+			"publishedAt": "2022-07-15T19:15:43Z",
+			"content": "Residents of Vinnytsia live a long way from the front-line of the conflict in Ukraine. They had reason to feel safe. Then the Russian missiles rained down.\r\nAt least 23 people are known to have died … [+3772 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Guardian" },
+			"author": "Samantha Lock and Léonie Chao-Fong",
+			"title": "Russia-Ukraine war update: what we know on day 135 of the invasion",
+			"description": "Vladimir Putin warns Russia has barely started its campaign in Ukraine and dares the west to try to defeat it on battlefield<ul><li>Read all our Russia-Ukraine war coverage</li></ul> Continue reading...",
+			"url": "https://amp.theguardian.com/world/2022/jul/08/russia-ukraine-war-update-what-we-know-on-day-135-of-the-invasion",
+			"urlToImage": "https://i.guim.co.uk/img/media/cde8d5e938f36bba57c33c8a585185709a009cff/0_0_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7da0755cad7542a38c347c7257a4edcc",
+			"publishedAt": "2022-07-08T00:29:29Z",
+			"content": "The Russian president, Vladimir Putin, warned Moscow had barely started its campaign in Ukraine and dared the west to try to defeat it on the battlefield. Putin said the prospects for any negotiation… [+262 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Guardian" },
+			"author": "Samantha Lock",
+			"title": "Russia-Ukraine war update: what we know on day 142 of the invasion",
+			"description": "Russian missiles strike Ukrainian city of Vinnytsia, killing 23 including three children; 45 nations pledge to coordinate evidence of war crimes in Ukraine<ul><li>See all our Russia-Ukraine war coverage</li></ul> Continue reading...",
+			"url": "https://amp.theguardian.com/world/2022/jul/15/russia-ukraine-war-update-what-we-know-on-day-142-of-the-invasion",
+			"urlToImage": "https://i.guim.co.uk/img/media/9c386ebb892fecaac95f2d410ac56e20f8b2f342/0_203_8140_4886/master/8140.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc7eaec851b3d77cee2e6aca396e7536",
+			"publishedAt": "2022-07-15T00:56:19Z",
+			"content": "The United States and more than 40 other countries have agreed to coordinate investigations into suspected war crimes in Ukraine. On Thursday, 45 countries including European Union states as well as … [+275 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Guardian" },
+			"author": "Samantha Lock and Léonie Chao-Fong",
+			"title": "Russia-Ukraine war update: what we know on day 139 of the invasion",
+			"description": "The death toll from a Russian missile attack on Chasiv Yar in eastern Ukraine rises to 33; Kyiv warns Russia will step up fight in Donbas <ul><li>See all our Russia-Ukraine war coverage</li></ul> Continue reading...",
+			"url": "https://amp.theguardian.com/world/2022/jul/12/russia-ukraine-war-update-what-we-know-on-day-139-of-the-invasion",
+			"urlToImage": "https://i.guim.co.uk/img/media/cf10cf13de95d6295fdeb7c8431edf6f7d1fce35/0_549_8230_4938/master/8230.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89ee03754071ec94eab2768e17677121",
+			"publishedAt": "2022-07-12T00:29:54Z",
+			"content": "Iran is planning to supply Russia with hundreds of weapons-capable drones for use in Ukraine, according to a top US official. Jake Sullivan, the White House national security adviser, said: The Irani… [+283 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Guardian" },
+			"author": "Samantha Lock",
+			"title": "Russia-Ukraine war update: what we know on day 140 of the invasion",
+			"description": "Ukrainian rockets hit Russian-held town in Kherson; death toll in Chasiv Yar, eastern Ukraine, rises to at least 45<ul><li>See all our Russia-Ukraine war coverage</li></ul> Continue reading...",
+			"url": "https://amp.theguardian.com/world/2022/jul/13/russia-ukraine-war-update-what-we-know-on-day-140-of-the-invasion",
+			"urlToImage": "https://i.guim.co.uk/img/media/6b016cb4196441748d6c065e844d7753d56281d1/0_111_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ce3a4716e73d75b44b2566967129efdb",
+			"publishedAt": "2022-07-13T00:21:46Z",
+			"content": "Ukraines president, Volodymyr Zelenskiy, says Russia doesnt have the courage to admit defeat. In a nationally televised address, Zelenskiy also mocked the Russian militarys apparent reliance on agein… [+177 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": null,
+			"title": "Ukraine war: CCTV shows missile striking shopping mall in Kremenchuk",
+			"description": "Ukraine's President Zelensky releases footage of missile strike, which killed at least 20 people.",
+			"url": "https://www.bbc.co.uk/news/av/world-europe-61978727",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8AF0/production/_125686553_p0chrbb3.jpg",
+			"publishedAt": "2022-06-29T09:27:26Z",
+			"content": "CCTV footage released by Ukraine's President Zelensky shows the moment a missile strikes a shopping centre in Kremenchuk.\r\nThe death toll from Monday's strike has risen to 20 while dozens of people h… [+16 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: People in siege city Lysychansk ordered to leave",
+			"description": "Residents of the front-line city of Lysychansk are ordered to leave as Russian forces push forward.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61954068",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E3D6/production/_125662385_mediaitem125662384.jpg",
+			"publishedAt": "2022-06-27T13:38:32Z",
+			"content": "By Patrick JacksonBBC News\r\nResidents of the besieged east Ukrainian city of Lysychansk have been ordered to leave by the local governor as Russian forces push forward.\r\nSerhiy Haidai, governor of Lu… [+3337 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine: Lysychansk is a battle lost, not the war - governor",
+			"description": "Serhiy Haidai tells the BBC that troops left the key city of Lysychansk to save it from Russian destruction.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62033619",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E3F2/production/_125745385_e737cd42e3f158ccd6316e4c9361d16f27d4e03b.jpg",
+			"publishedAt": "2022-07-04T09:43:48Z",
+			"content": "Ukrainians left the city of Lysychansk so Russians would not destroy it from a distance, a top official says.\r\nSoldiers have now moved to new fortified positions, Serhiy Haidai, governor of the Luhan… [+1934 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine aims to amass 'million-strong army' to recapture south, says defence minister",
+			"description": "The defence minister's remarks are a rallying cry - rather than a concrete plan - as Russia pounds cities.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62118953",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/58ED/production/_125856722_hi077258221.jpg",
+			"publishedAt": "2022-07-11T08:40:07Z",
+			"content": "Ukraine plans a \"million-strong army\" equipped with Nato weapons to retake the south of the country from occupying Russians, the defence minister says.\r\nRetaking the areas around the Black Sea coast … [+2501 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war: UK joins ban on imports of Russian gold",
+			"description": "The move by the UK, US, Canada and Japan will \"strike at the heart of Putin's war machine\", the UK PM says.",
+			"url": "https://www.bbc.co.uk/news/business-61941589",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4C92/production/_125620691_gettyimages-1239234785.jpg",
+			"publishedAt": "2022-06-26T08:32:49Z",
+			"content": "The UK, US, Canada and Japan will ban imports of Russian gold in an effort to hit Moscow's ability to fund the war in Ukraine.\r\nThe UK said the measure would \"strike at the heart of Putin's war machi… [+1760 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Ukraine war round-up: Shopping mall attack and stolen grain",
+			"description": "A missile attack kills at least 11 in the city of Kremenchuk, and Russia is accused of stealing grain.",
+			"url": "https://www.bbc.co.uk/news/world-europe-61960087",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/89D6/production/_125668253_firegetty.jpg",
+			"publishedAt": "2022-06-27T20:27:09Z",
+			"content": "By Patrick JacksonBBC News\r\nMedia caption, Flames engulf shopping centre in Ukraine following missile strike\r\nA missile attack blamed on Russia started an inferno in a busy shopping centre in the Ukr… [+4119 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Lysychansk: Heavy fighting rages in Ukraine-held eastern city",
+			"description": "Ukrainian forces say they are being pounded by Russian heavy artillery as they battle to keep the city.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62022471",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D6EF/production/_125732055_lysychanskfileafp18jun22ok.jpg",
+			"publishedAt": "2022-07-02T15:32:37Z",
+			"content": "Ukraine says its forces are enduring intense Russian shelling in the eastern city of Lysychansk, but denies claims that they are surrounded.\r\nIt is the last Ukrainian-held city in Luhansk, part of th… [+2044 chars]"
+		},
+		{
+			"source": { "id": "bbc-news", "name": "BBC News" },
+			"author": "https://www.facebook.com/bbcnews",
+			"title": "Russia dredges up landing ship hit by Ukraine missile fire",
+			"description": "The Russian troop ship Saratov sank in a Black Sea port after a Ukrainian missile strike.",
+			"url": "https://www.bbc.co.uk/news/world-europe-62022476",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4DD3/production/_125732991_saratov2kchf.ru.jpg",
+			"publishedAt": "2022-07-02T18:51:36Z",
+			"content": "Russia says it has salvaged a large landing ship scuttled by its crew after a Ukrainian missile strike damaged it in the port of Berdyansk on 24 March.\r\nA Telegram post by a Russian-appointed officia… [+1816 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "In Kharkiv suburb, return of Soviet-era trams is a step towards normalcy - Reuters",
+			"description": "In Saltivka, a working class suburb of Kharkiv in eastern Ukraine, the trams are running again.",
+			"url": "https://www.reuters.com/world/europe/kharkiv-suburb-return-soviet-era-trams-is-step-towards-normalcy-2022-07-15/",
+			"urlToImage": "https://www.reuters.com/resizer/tVSyOplC3VOJ4XkGnLwdayG_R4c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CNUWKY2GJZMARJLTBFOA5IZ7PM.jpg",
+			"publishedAt": "2022-07-15T09:50:00Z",
+			"content": "KHARKIV, Ukraine, July 15 (Reuters) - In Saltivka, a working class suburb of Kharkiv in eastern Ukraine, the trams are running again.\r\nBuilt in the 1980s, the Soviet-era streetcars may look rickety a… [+1615 chars]"
+		},
+		{
+			"source": { "id": null, "name": "The Guardian" },
+			"author": "Presented by Nosheen Iqbal with Emily Dugan; produced by Joshua Kelly and Axel Kacoutié; executive producers Phil Maynard and Elizabeth Cassin",
+			"title": "Is Britain’s Homes for Ukraine scheme working?",
+			"description": "The Russian invasion of Ukraine caused a massive humanitarian crisis and led to millions of people fleeing their country. Some have made their way to the UK as part of the government’s Homes for Ukraine scheme. But is it working as intended?Since the Russian …",
+			"url": "https://www.theguardian.com/news/audio/2022/jul/15/is-britains-homes-for-ukraine-scheme-working-podcast",
+			"urlToImage": "https://i.guim.co.uk/img/media/bea130df373919b71f558bee2355650f9e37871d/0_90_3500_2101/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9cdbc3975c7f8dd12210cab445c511b8",
+			"publishedAt": "2022-07-15T02:00:26Z",
+			"content": "Since the Russian invasion of Ukraine began earlier this year, millions of Ukrainians have been forced to flee and find accommodation in neighbouring countries and across Europe. Many countries waive… [+1248 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "John Ismay",
+			"title": "How a Military Base in Illinois Helps Keep Weapons Flowing to Ukraine",
+			"description": "Thousands of logisticians are responsible for making sure that U.S. military aid reaches its destination, on planes, trains and ships.",
+			"url": "https://www.nytimes.com/2022/07/03/us/ukraine-military-aid-weapons-us.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/06/30/us/politics/00dc-transportation1/00dc-transportation1-facebookJumbo.jpg",
+			"publishedAt": "2022-07-03T07:00:11Z",
+			"content": "The White House has announced 13 subsequent aid packages for Ukraine, and the planning process has advanced enough that it now takes less than a day from the president approving a shipment to having … [+1638 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Times" },
+			"author": "Anton Troianovski",
+			"title": "Patient and Confident, Putin Shifts Out of Wartime Crisis Mode",
+			"description": "Cloistered and spouting grievances at the start of the war on Ukraine, the Russian leader now appears publicly, projecting the aura of a calm, paternalistic leader shielding his people from the dangers of the world.",
+			"url": "https://www.nytimes.com/2022/06/30/world/europe/putin-russia-nato-ukraine.html",
+			"urlToImage": "https://static01.nyt.com/images/2022/06/29/world/29russia-putin-01/29russia-putin-01-facebookJumbo.jpg",
+			"publishedAt": "2022-06-30T04:01:09Z",
+			"content": "Nevertheless, predictions that Mr. Putin would make an official declaration of war and install a military draft have not come to pass. And Western steps that other Russian officials have described as… [+1713 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Ctvnews.ca" },
+			"author": null,
+			"title": "Renewed Russian attacks strike several areas of Ukraine - CTV News",
+			"description": "<ol><li>Renewed Russian attacks strike several areas of Ukraine  CTV News\r\n</li><li>Missiles, shells fired after Russian troops told to 'further intensify' efforts in Ukraine  CBC News\r\n</li><li>War in Ukraine: Russia steps up attacks with new missile strikes…",
+			"url": "https://www.ctvnews.ca/world/russia-steps-up-attacks-across-ukraine-s-north-east-south-1.5990276",
+			"urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/7/16/chuhuiv--ukraine-1-5990280-1657978239194.jpg",
+			"publishedAt": "2022-07-16T13:32:12Z",
+			"content": "KRAMATORSK, Ukraine - \r\nRussian forces fired missiles and shells at cities and towns across Ukraine on Saturday after Russia's military announced it was stepping up its onslaught against its neighbou… [+6888 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "Russia says shot down three Ukrainian jets - Reuters",
+			"description": "Russia's defence ministry said on Wednesday that Russian forces shot down three Ukrainian military jets over eastern Ukraine.",
+			"url": "https://www.reuters.com/world/europe/russia-says-shot-down-three-ukrainian-jets-2022-07-13/",
+			"urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=102",
+			"publishedAt": "2022-07-13T09:00:00Z",
+			"content": "MOSCOW, July 13 (Reuters) - Russia's defence ministry said on Wednesday that Russian forces shot down three Ukrainian military jets over eastern Ukraine.\r\nRussian fighter jets destroyed an Su-25 and … [+405 chars]"
+		}
+	]
+}
