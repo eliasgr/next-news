@@ -1,0 +1,54 @@
+	{/* <Head>
+				<meta property='og:image' content={articles[0]?.urlToImage} />
+				<meta property='og:description' content={articles[0]?.description} />
+				<meta
+					property='og:title'
+					content={articles[0]?.title + ' and more!'}
+				></meta>
+			</Head> */}
+			<div className='flex flex-col h-screen'>
+				<Toolbar />
+				<div className='flex flex-col items-center mt-12'>
+					{articles.map((article, index) => (
+						<div
+							key={index}
+							className='w-[500px] mb-6 pb-6 border-solid border-black border-b '
+						>
+							<h1 onClick={() => (window.location.href = article.url)}>
+								{article.title}
+							</h1>
+							<p>{article.description}</p>
+							{!!article.urlToImage && <img src={article.urlToImage} />}
+						</div>
+					))}
+				</div>
+				<div className='w-full flex justify-center'>
+					<input
+						type='button'
+						value='Previous'
+						disabled={pageNumber === 1}
+						className=':disabled cursor-not-allowed :disabled bg-gray-400'
+						onClick={() => {
+							if (pageNumber > 1) {
+								router.push(`/feed/${pageNumber - 1}`);
+							}
+						}}
+					></input>
+
+					<div>#{pageNumber}</div>
+
+					<input
+						type='button'
+						value='Next Page'
+						disabled={pageNumber === 5}
+						className=':disabled cursor-not-allowed :disabled bg-gray-400'
+						onClick={() => {
+							if (pageNumber < 5) {
+								router.push(`/feed/${pageNumber + 1}`);
+							}
+						}}
+					>
+						Next Page
+					</input>
+				</div>
+			</div>

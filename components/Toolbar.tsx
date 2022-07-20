@@ -14,7 +14,7 @@ const Toolbar = () => {
 			</div>
 			<div
 				className='m-[25px] cursor-pointer hover:text-gray-400'
-				onClick={() => router.push('/feed')}
+				onClick={() => router.push('/feed/1')}
 			>
 				Feed
 			</div>

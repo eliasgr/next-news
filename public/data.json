@@ -1,0 +1,56 @@
+{
+	"status": "ok",
+	"totalResults": 38,
+	"articles": [
+		{
+			"source": { "id": "associated-press", "name": "Associated Press" },
+			"author": "Danica Kirka",
+			"title": "UK breaks record for highest temperature as Europe sizzles - The Associated Press",
+			"description": "LONDON (AP) — Britain shattered its record for highest temperature ever registered Tuesday amid a heat wave that has seared swaths of Europe, as the U.K.'s national weather forecaster said such highs are now a fact of life in a country ill-prepared for such e…",
+			"url": "https://apnews.com/b9bc07c1685b76ddf377b65f19fb811b",
+			"urlToImage": "https://storage.googleapis.com/afs-prod/media/aa294671935d420aa431a92daf1c034a/3000.jpeg",
+			"publishedAt": "2022-07-20T06:30:23Z",
+			"content": "LONDON (AP) Britain shattered its record for highest temperature ever registered Tuesday amid a heat wave that has seared swaths of Europe, as the U.K.s national weather forecaster said such highs ar… [+6102 chars]"
+		},
+		{
+			"source": { "id": null, "name": "Deadline" },
+			"author": "Tom Tapp",
+			"title": "Boy Tells Clayton Kershaw At All-Star Game Press Conference: “My Grandpa Loved You…I’m Meeting You For Him” - Deadline",
+			"description": "“Baseball is a game for fathers and sons,” someone once said. Dodgers pitcher Clayton Kershaw learned that again tonight when he rose to leave his All-Star Game press conference and a member of the media told him, “Clayton, I think there’s a kid who’s trying …",
+			"url": "https://deadline.com/2022/07/boy-approaches-clayton-kershaw-at-press-conference-my-grandpa-loved-you-im-meeting-you-for-him-1235072946/",
+			"urlToImage": "https://deadline.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-19-at-9.41.35-PM.png?w=1024",
+			"publishedAt": "2022-07-20T04:56:00Z",
+			"content": "“Baseball is a game for fathers and sons,” someone once said. \r\nDodgers pitcher Clayton Kershaw learned that again tonight when he rose to leave his All-Star Game press conference and a member of the… [+1947 chars]"
+		},
+		{
+			"source": { "id": null, "name": "New York Post" },
+			"author": "Jesse O’Neill",
+			"title": "'Complete hell': Texas man describes monkeypox battle - New York Post ",
+			"description": "“The entire pain was just constant,” the patient reportedly said.",
+			"url": "https://nypost.com/2022/07/20/texas-man-describes-monkeypox-battle/",
+			"urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/07/monkeypox-5.jpg?quality=75&strip=all&w=1024",
+			"publishedAt": "2022-07-20T04:39:00Z",
+			"content": "A Texas man described his “traumatic” battle with monkeypox as more than 2,000 cases are documented across the US.\r\nThe patient, Luke Shannahan, told Houston’s KHOU 11 that his ordeal started after t… [+1863 chars]"
+		},
+		{
+			"source": { "id": "reuters", "name": "Reuters" },
+			"author": null,
+			"title": "White House says Russia laying groundwork to annex Ukraine territory - Reuters",
+			"description": "Russia is laying the groundwork for the annexation of Ukrainian territory and is installing illegitimate proxy officials in areas there under its control as it seeks to exert total control over its gains in the east, the White House said on Tuesday.",
+			"url": "https://www.reuters.com/world/white-house-russia-laying-groundwork-annexing-ukraine-territory-2022-07-19/",
+			"urlToImage": "https://www.reuters.com/resizer/JT55SBcFZl2gYTVK7laMdWu_JvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IIQJAWMG3JLH7GEJADIC62JJTU.jpg",
+			"publishedAt": "2022-07-20T04:31:00Z",
+			"content": "WASHINGTON, July 19 (Reuters) - Russia is laying the groundwork for the annexation of Ukrainian territory and is installing illegitimate proxy officials in areas there under its control as it seeks t… [+2680 chars]"
+		},
+		{
+			"source": { "id": "fox-sports", "name": "Fox Sports" },
+			"author": "FOX Sports",
+			"title": "MLB All-Star Game 2022: AL edges NL 3-2 - FOX Sports",
+			"description": "The MLB All-Star Game at Dodger Stadium was truly a Midsummer Classic. Here are the top moments from the AL's 3-2 win.",
+			"url": "https://www.foxsports.com/stories/mlb/mlb-all-star-game-2022-al-edges-nl-3-2",
+			"urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/1408/814/07.15.22_ASGSightsSounds_Horizontal.jpg?ve=1&tl=1",
+			"publishedAt": "2022-07-20T04:15:06Z",
+			"content": "The 92nd Major League Baseball All-Star Game took place Tuesday, and it was one for the books. \r\nIn the first All-Star Game at Dodger Stadium since 1980, the National League was hoping to close the g… [+7870 chars]"
+		}
+	]
+}
