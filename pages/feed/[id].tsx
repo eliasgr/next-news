@@ -96,7 +96,7 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 
 export const getServerSideProps = async (pageContext: any) => {
 	const pageNumber = pageContext.query.id;
-	const apiUrl = 'http://localhost:3000/data.json'; //`${process.env.API_URL}${pageNumber}`;
+	const apiUrl = process.env.API_URL;
 
 	const apiResponse: ApiResponse = await fetch(apiUrl).then((res) =>
 		res.json()
