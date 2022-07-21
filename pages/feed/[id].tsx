@@ -96,7 +96,9 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 
 export const getServerSideProps = async (pageContext: any) => {
 	const pageNumber = pageContext.query.id;
-	const apiUrl = process.env.API_URL;
+	const apiUrl =
+		'https://newsapi.org/v2/top-headlines?country=us&apiKey=f457198180e54861baa60e0a511d0d19'; //(process.env.API_URL);
+	console.log(apiUrl);
 
 	const apiResponse: ApiResponse = await fetch(apiUrl).then((res) =>
 		res.json()
