@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import { useRouter } from 'next/router';
+import News from '../../components/News';
 import Paginator from '../../components/Paginator';
 import Toolbar from '../../components/Toolbar';
 type Source = {
@@ -47,19 +48,7 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 							key={index}
 							className='w-[500px] mb-6 pb-6 border-solid border-gray-700 border-b '
 						>
-							<h1
-								className='text-blue-600 hover:text-blue-800 font-semibold text-lg cursor-pointer '
-								onClick={() => (window.location.href = article.url)}
-							>
-								{article.title}
-							</h1>
-							<h1>{article.source.name}</h1>
-							<p className='text-sm text-gray-600 mt-2'>
-								{article.description}
-							</p>
-							{!!article.urlToImage && (
-								<img className='w-full' src={article.urlToImage} />
-							)}
+							<News article={article} />
 						</div>
 					))}
 				</div>
