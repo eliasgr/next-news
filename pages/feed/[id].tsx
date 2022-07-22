@@ -40,13 +40,13 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 					content={articles[0]?.title + ' and more!'}
 				></meta>
 			</Head>
-			<div className='flex flex-col h-screen'>
-				<Toolbar />
-				<div className='flex flex-col items-center mt-12'>
+			<Toolbar />
+			<div className='flex flex-col h-fit  '>
+				<div className='flex flex-col items-center '>
 					{articles.map((article, index) => (
 						<div
 							key={index}
-							className='w-[500px] mb-6 pb-6 border-solid border-gray-700 border-b '
+							className='md:w-1/2  rounded-md drop-shadow-md mb-4 p-6 border-solid border-b bg-blue-200 '
 						>
 							<News article={article} />
 						</div>
@@ -60,8 +60,8 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 
 export const getServerSideProps = async (pageContext: any) => {
 	const pageNumber = pageContext.query.id;
-	const apiUrl =
-		'https://newsapi.org/v2/top-headlines?country=us&apiKey=f457198180e54861baa60e0a511d0d19'; //(process.env.API_URL);
+	const apiUrl = 'http://localhost:3000/data.json';
+	//'https://newsapi.org/v2/top-headlines?country=us&apiKey=f457198180e54861baa60e0a511d0d19'; //(process.env.API_URL);
 	console.log(apiUrl);
 
 	const apiResponse: ApiResponse = await fetch(apiUrl).then((res) =>

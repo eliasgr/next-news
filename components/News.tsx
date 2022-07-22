@@ -2,7 +2,7 @@ const News = ({ article }: any) => {
 	return (
 		<>
 			<h1
-				className='text-blue-600 hover:text-blue-800 font-semibold text-lg cursor-pointer '
+				className=' text-blue-600 hover:text-blue-800 font-bold text-xl cursor-pointer p-2 '
 				onClick={() => (window.location.href = article.url)}
 			>
 				{article.title}
