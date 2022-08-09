@@ -3,25 +3,7 @@ import { useRouter } from 'next/router';
 import News from '../../components/News';
 import Paginator from '../../components/Paginator';
 import Toolbar from '../../components/Toolbar';
-type Source = {
-	id: string;
-	name: string;
-};
-type Article = {
-	source: Source;
-	author: string;
-	title: string;
-	description: string;
-	url: string;
-	urlToImage: string;
-	publishedAt: string;
-	content: string;
-};
-type ApiResponse = {
-	status: string;
-	totalResults: number;
-	articles: Article[];
-};
+import { ApiResponse, Article } from '../../utils/types';
 
 type PageProps = {
 	articles: Article[];
@@ -48,7 +30,7 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 							key={index}
 							className='md:w-1/2  rounded-md drop-shadow-md mb-4 p-6 border-solid border-b bg-blue-200 '
 						>
-							<News article={article} />
+							<News {...article} />
 						</div>
 					))}
 				</div>
@@ -60,9 +42,9 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 
 export const getServerSideProps = async (pageContext: any) => {
 	const pageNumber = pageContext.query.id;
-	const apiUrl = 'http://localhost:3000/data.json';
-	//'https://newsapi.org/v2/top-headlines?country=us&apiKey=f457198180e54861baa60e0a511d0d19'; //(process.env.API_URL);
-	console.log(apiUrl);
+	const apiUrl =
+		'https://newsapi.org/v2/top-headlines?country=us&apiKey=f457198180e54861baa60e0a511d0d19'; //(process.env.API_URL);
+	// 'http://localhost:3000/data.json';
 
 	const apiResponse: ApiResponse = await fetch(apiUrl).then((res) =>
 		res.json()
