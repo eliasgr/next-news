@@ -22,7 +22,6 @@ export const Feed = ({ articles, pageNumber }: PageProps) => {
 					content={articles[0]?.title + ' and more!'}
 				></meta>
 			</Head>
-			<Toolbar />
 			<div className='flex flex-col h-fit  '>
 				<div className='flex flex-col items-center '>
 					{articles.map((article, index) => (

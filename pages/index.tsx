@@ -6,7 +6,6 @@ import Toolbar from '../components/Toolbar';
 const Home: NextPage = () => {
 	return (
 		<div className='flex h-screen flex-col'>
-			<Toolbar />
 			<div className='flex flex-1  flex-col items-center'>
 				<h1 className='mt-10 text-[32px] text-gray-700 font-bold '>
 					Next.js News App
